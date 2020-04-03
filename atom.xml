@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bgsn2014.github.io</id>
-    <title>Bgsn2014 Blog</title>
-    <updated>2020-04-03T04:58:16.434Z</updated>
+    <title>Bgsn2014&apos;s Blog</title>
+    <updated>2020-04-03T05:07:22.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bgsn2014.github.io"/>
     <link rel="self" href="https://bgsn2014.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://bgsn2014.github.io/images/avatar.png</logo>
     <icon>https://bgsn2014.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Bgsn2014 Blog</rights>
+    <rights>All rights reserved 2020, Bgsn2014&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://bgsn2014.github.io/post/hello-gridea/</id>
