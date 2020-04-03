@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bgsn2014.github.io</id>
     <title>Bgsn2014&apos;s Blog</title>
-    <updated>2020-04-03T15:13:07.695Z</updated>
+    <updated>2020-04-03T15:21:14.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bgsn2014.github.io"/>
     <link rel="self" href="https://bgsn2014.github.io/atom.xml"/>
@@ -16,16 +16,17 @@
         <link href="https://bgsn2014.github.io/post/YL/">
         </link>
         <updated>2020-04-03T14:47:27.000Z</updated>
-        <content type="html"><![CDATA[<p><s>广告:🤑</s></p>
-<p>主站：<a href="">bgsn2014.top</a> 备案中😭</p>
-<p>博主的BBS: <a href="">bbs.bgsn2014.top</a></p>
+        <content type="html"><![CDATA[<!-- more -->
+<p><s>广告:🤑</s></p>
+<p>主站：<a href="https://bgsn2014.top">bgsn2014.top</a> 备案中😭</p>
+<p>博主的BBS: <a href="https://bbs.bgsn2014.top">bbs.bgsn2014.top</a></p>
 <p>以下为正文:</p>
-<p>清水博客:<a href="">heppy.wang</a></p>
-<p>KaiosLab:<a href="">kaioslab.xyz</a></p>
-<p><s>Kaios论坛</s>西普拉斯驿站:<a href="">cplus.wzfou.me</a></p>
-<p>Kaios资源下载站:<a href="">kaios.ys168.com</a></p>
-<p>Kaiice博客:<a href="">kaiostech.top</a></p>
-<p>Liaronce:<a href="www.liaronce.com">www.liaronce.com</a></p>
+<p>清水博客:<a href="https://heppy.wang">heppy.wang</a></p>
+<p>KaiosLab:<a href="https://kaioslab.xyz">kaioslab.xyz</a></p>
+<p><s>Kaios论坛</s>西普拉斯驿站:<a href="http://cplus.wzfou.me">cplus.wzfou.me</a></p>
+<p>Kaios资源下载站:<a href="https://kaios.ys168.com">kaios.ys168.com</a></p>
+<p>Kaiice博客:<a href="https://kaiostech.top">kaiostech.top</a></p>
+<p>Liaronce:<a href="https://www.liaronce.com">www.liaronce.com</a></p>
 <p>QQ浮冰的博客:<a href="https://qqfloatingice.github.io/">qqfloatingice.github.io</a></p>
 <p>QQ鲨冰的博客:<a href="https://qshaice.github.io/">qshaice.github.io</a></p>
 <p>**<s>太多了</s>**😝</p>
