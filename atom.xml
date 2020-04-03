@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bgsn2014.github.io</id>
     <title>Bgsn2014&apos;s Blog</title>
-    <updated>2020-04-03T09:14:38.420Z</updated>
+    <updated>2020-04-03T09:25:35.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bgsn2014.github.io"/>
     <link rel="self" href="https://bgsn2014.github.io/atom.xml"/>
@@ -15,8 +15,8 @@
         <id>https://bgsn2014.github.io/post/hello-world/</id>
         <link href="https://bgsn2014.github.io/post/hello-world/">
         </link>
-        <updated>2020-04-03T09:13:41.000Z</updated>
-        <content type="html"><![CDATA[<p>这是我的第一条Github Pages博客，Powered by Gridea.</p>
+        <updated>2020-04-01T09:13:41.000Z</updated>
+        <content type="html"><![CDATA[<p>这是我的第一条Github Pages博客，Powered by Gridea.（这个站就作为我网站没备案前的临时Blog吧😀博主这里的审局太严格了😭）</p>
 ]]></content>
     </entry>
     <entry>
