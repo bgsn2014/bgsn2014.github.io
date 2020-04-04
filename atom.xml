@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bgsn2014.github.io</id>
     <title>Bgsn2014&apos;s Blog</title>
-    <updated>2020-04-04T06:14:11.196Z</updated>
+    <updated>2020-04-04T07:14:47.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bgsn2014.github.io"/>
     <link rel="self" href="https://bgsn2014.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://bgsn2014.github.io/images/avatar.png</logo>
     <icon>https://bgsn2014.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Bgsn2014&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[哀悼]]></title>
+        <id>https://bgsn2014.github.io/post/TTPXJ7GzU/</id>
+        <link href="https://bgsn2014.github.io/post/TTPXJ7GzU/">
+        </link>
+        <updated>2020-04-04T01:59:00.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<pre><code>    为那些疫情期间默默付出的英雄点赞，为那些在烈士表示哀悼，为在疫情中去世的同胞默哀。🙍‍♂
+</code></pre>
+<p><img src="https://bgsn2014.github.io/post-images/1585984457574.jpeg" alt="" loading="lazy"><br>
+武汉加油，中国加油，世界加油！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[友情链接]]></title>
         <id>https://bgsn2014.github.io/post/YL/</id>
