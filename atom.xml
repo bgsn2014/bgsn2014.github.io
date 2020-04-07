@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bgsn2014.github.io</id>
     <title>Bgsn2014&apos;s Blog</title>
-    <updated>2020-04-07T12:43:01.839Z</updated>
+    <updated>2020-04-07T13:49:35.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bgsn2014.github.io"/>
     <link rel="self" href="https://bgsn2014.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://bgsn2014.github.io/images/avatar.png</logo>
     <icon>https://bgsn2014.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Bgsn2014&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[博客搬家了]]></title>
+        <id>https://bgsn2014.github.io/post/InJQ7ULhh/</id>
+        <link href="https://bgsn2014.github.io/post/InJQ7ULhh/">
+        </link>
+        <updated>2020-04-07T13:34:41.000Z</updated>
+        <content type="html"><![CDATA[<p>Github Pages太慢啦！(其实套了CF也挺快)😧所以博主决定将该博客搬至<a href="https://coding.net">Coding.net</a> Gituhb作为镜像站继续运行，4月8日14时后原Github Pages 上的博客地址为<a href="https://bgsn2014.github.io">bgsn2014.github.io</a>或<a href="https://2nd.b233.ga">2nd.b233.ga</a>。届时<a href="https://b.bgsn2014.top">b.bgsn2014.top</a>或<a href="https://b233.ga">b233.ga</a>将运行于Coding.net。欢迎大家多多光临。<s>(很快又要搬了😅)</s></p>
+<p>默默问一句，有谁要加友链吗？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哀悼🕯️]]></title>
         <id>https://bgsn2014.github.io/post/TTPXJ7GzU/</id>
