@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bgsn2014.github.io</id>
     <title>Bgsn2014&apos;s Blog</title>
-    <updated>2020-04-07T13:59:54.796Z</updated>
+    <updated>2020-04-07T14:30:11.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bgsn2014.github.io"/>
     <link rel="self" href="https://bgsn2014.github.io/atom.xml"/>
@@ -11,11 +11,29 @@
     <icon>https://bgsn2014.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Bgsn2014&apos;s Blog</rights>
     <entry>
+        <title type="html"><![CDATA[【经验】入门：使用Hexo搭建博客]]></title>
+        <id>https://bgsn2014.github.io/post/hexobgsn/</id>
+        <link href="https://bgsn2014.github.io/post/hexobgsn/">
+        </link>
+        <updated>2020-04-08T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Hexo是快速、简洁且高效的博客框架。稍后更新</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【水】懒：使用Gridea在Coding.net 搭建博客]]></title>
+        <id>https://bgsn2014.github.io/post/cdbk/</id>
+        <link href="https://bgsn2014.github.io/post/cdbk/">
+        </link>
+        <updated>2020-04-08T04:30:30.000Z</updated>
+        <content type="html"><![CDATA[<p>稍后更新</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[博客搬家了]]></title>
         <id>https://bgsn2014.github.io/post/InJQ7ULhh/</id>
         <link href="https://bgsn2014.github.io/post/InJQ7ULhh/">
         </link>
-        <updated>2020-04-07T13:34:41.000Z</updated>
+        <updated>2020-04-07T13:00:00.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://bgsn2014.github.io/post-images/1586267942526.jpg" alt="" loading="lazy">Github Pages太慢啦！(其实套了CF也挺快)😧所以博主决定将该博客搬至<a href="https://coding.net">Coding.net</a> Gituhb作为镜像站继续运行，4月8日14时后原Github Pages 上的博客地址为<a href="https://bgsn2014.github.io">bgsn2014.github.io</a>或<a href="https://2nd.b233.ga">2nd.b233.ga</a>。届时<a href="https://b.bgsn2014.top">b.bgsn2014.top</a>或<a href="https://b233.ga">b233.ga</a>将运行于Coding.net。欢迎大家多多光临。<s>(很快又要搬了😅)</s></p>
 <p>默默问一句，有谁要加友链吗？</p>
 ]]></content>
@@ -35,12 +53,13 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【水】使用Gridea在Github搭建博客]]></title>
+        <title type="html"><![CDATA[【经验】懒：使用Gridea在Github搭建博客]]></title>
         <id>https://bgsn2014.github.io/post/dbk/</id>
         <link href="https://bgsn2014.github.io/post/dbk/">
         </link>
         <updated>2020-04-04T00:05:26.000Z</updated>
-        <summary type="html"><![CDATA[<p>①下载并安装<a href="https://gridea.dev">Gridea</a>✔️</p>
+        <summary type="html"><![CDATA[<p>懒得打代码？想白嫖？噢，你可以用Gridea在Github搭建博客！🙃<br>
+①下载并安装<a href="https://gridea.dev">Gridea</a>✔️</p>
 <p>②创建Github Pages.👩‍💻<br>
 打开<a href="https://github.com">Github</a>进行注册(已有Github账号请略过)，注册成功后请登录。<br>
 创建你的仓库（点击+，打开第一个选项）<br>
@@ -48,7 +67,8 @@
 选项如图，其中&quot;你的名字&quot;替换为你的Github用户名，如:&quot;bgsn2014.github.io&quot;✅<br>
 创建完毕，你已经有了自己的Github Pages域名啦！😄</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>①下载并安装<a href="https://gridea.dev">Gridea</a>✔️</p>
+        <content type="html"><![CDATA[<p>懒得打代码？想白嫖？噢，你可以用Gridea在Github搭建博客！🙃<br>
+①下载并安装<a href="https://gridea.dev">Gridea</a>✔️</p>
 <p>②创建Github Pages.👩‍💻<br>
 打开<a href="https://github.com">Github</a>进行注册(已有Github账号请略过)，注册成功后请登录。<br>
 创建你的仓库（点击+，打开第一个选项）<br>
@@ -109,7 +129,7 @@ B.Valine(改代码，较开放)<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[链接]]></title>
+        <title type="html"><![CDATA[推荐链接]]></title>
         <id>https://bgsn2014.github.io/post/YL/</id>
         <link href="https://bgsn2014.github.io/post/YL/">
         </link>
