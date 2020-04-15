@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ans4q6.coding-pages.com</id>
     <title>Bgsn2014&apos;s Blog</title>
-    <updated>2020-04-15T03:05:41.504Z</updated>
+    <updated>2020-04-15T23:21:42.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ans4q6.coding-pages.com"/>
     <link rel="self" href="https://ans4q6.coding-pages.com/atom.xml"/>
@@ -25,15 +25,6 @@
 <s>我要赶紧复习啊！！！</s><br>
 希望大家都能好好学习。<br>
 暂  缓  更  新🐶</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【广告】博主的内网穿透]]></title>
-        <id>https://ans4q6.coding-pages.com/post/RHP70XAKV/</id>
-        <link href="https://ans4q6.coding-pages.com/post/RHP70XAKV/">
-        </link>
-        <updated>2020-04-14T15:42:08.000Z</updated>
-        <content type="html"><![CDATA[<p>哈哈哈，最近<s>无聊</s>沉迷学习。突然大开脑洞，自己弄了一下内网穿透(基于Frp)，目前有香港，上海的服务器，每月与我共享2T流量或1M宽带。有意者欢迎联系我，联系方式见主页。**开玩笑啦，其实最好自己搭啦！**有空出教程。（话说我还有好几篇没更呢😅</p>
 ]]></content>
     </entry>
     <entry>
@@ -121,6 +112,82 @@ Test</p>
 <!-- more -->
 <p><img src="https://ans4q6.coding-pages.com/post-images/1585984457574.jpeg" alt="" loading="lazy"><br>
 武汉加油，中国加油，世界加油！🇨🇳</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【经验】懒：使用Gridea在Github搭建博客]]></title>
+        <id>https://ans4q6.coding-pages.com/post/dbk/</id>
+        <link href="https://ans4q6.coding-pages.com/post/dbk/">
+        </link>
+        <updated>2020-04-04T00:05:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>懒得打代码？想白嫖？噢，你可以用Gridea在Github搭建博客！🙃<br>
+①下载并安装<a href="https://gridea.dev">Gridea</a>✔️</p>
+<p>②创建Github Pages.👩‍💻<br>
+打开<a href="https://github.com">Github</a>进行注册(已有Github账号请略过)，注册成功后请登录。<br>
+创建你的仓库（点击+，打开第一个选项）<br>
+<img src="https://bgsn2014.github.io/post-images/1585997822525.png" alt="" loading="lazy"><br>
+选项如图，其中&quot;你的名字&quot;替换为你的Github用户名，如:&quot;bgsn2014.github.io&quot;✅<br>
+创建完毕，你已经有了自己的Github Pages域名啦！😄</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>懒得打代码？想白嫖？噢，你可以用Gridea在Github搭建博客！🙃<br>
+①下载并安装<a href="https://gridea.dev">Gridea</a>✔️</p>
+<p>②创建Github Pages.👩‍💻<br>
+打开<a href="https://github.com">Github</a>进行注册(已有Github账号请略过)，注册成功后请登录。<br>
+创建你的仓库（点击+，打开第一个选项）<br>
+<img src="https://ans4q6.coding-pages.com/post-images/1585997822525.png" alt="" loading="lazy"><br>
+选项如图，其中&quot;你的名字&quot;替换为你的Github用户名，如:&quot;bgsn2014.github.io&quot;✅<br>
+创建完毕，你已经有了自己的Github Pages域名啦！😄</p>
+<!-- more -->
+<p>③设置Gridea🚩<br>
+<a href="https://github.com/settings/tokens/new">点我🌐</a>创建仓库Token。<br>
+<img src="https://ans4q6.coding-pages.com/post-images/1585997157614.png" alt="" loading="lazy"><br>
+如图所示，Note随意填，勾选repo按钮✅。<br>
+<img src="https://ans4q6.coding-pages.com/post-images/1585997236440.png" alt="" loading="lazy"><br>
+按它!<br>
+你将得到一串<s>乱码</s> Token，复制好。(P.S.:一定要保存好⚠️)<br>
+<img src="https://ans4q6.coding-pages.com/post-images/1585997331963.png" alt="" loading="lazy"><br>
+打开Gridea-远程，如图。<img src="https://ans4q6.coding-pages.com/post-images/1585998203889.png" alt="" loading="lazy"><br>
+域名处请替换为自己的Github Pages域名，仓库名称与域名相同,分支为master,用户名为你的Github用户名，令牌请粘贴刚才的Token，CNAME不用填！<br>
+检测一下远程连接，祝你好运😜<br>
+④同步Gridea📲<br>
+如果远程连接无误，请点击Gridea中的同步按钮。<br>
+至此，你的博客设置完毕，快去写写文章吧，祝你妙笔生花！🥂<br>
+（可以点击“预览”查看你的博客）<br>
+<a href="https://gridea.dev">Gridea官网</a><br>
+<s>可以溜了🏃</s></p>
+<p>附录⌛️：<br>
+①个性化设置👩‍🎨<br>
+想要更改主题,请打开<a href="https://gridea.dev/themes/">gridea.dev/themes/</a>,找到你喜爱的主题并下载。<br>
+<img src="https://ans4q6.coding-pages.com/post-images/1586000034599.png" alt="" loading="lazy"><br>
+如图，打开Gridea设置，找到你的站点源文件路径（一般为Documents/Gridea）并打开，将你的主题文件夹放入themes文件夹里。<br>
+点击主题-切换你的主题，至此，主题切换完成。</p>
+<p>②评论功能(二选一)💬<br>
+A.Gitalk(简单,但只能用Github账号)<br>
+一、注册Github Application<br>
+单击<a href="https://github.com/settings/applications/new">传送门</a><br>
+如图，网址替换为你的网址，其余随意。<br>
+<img src="https://ans4q6.coding-pages.com/post-images/1586000688716.png" alt="" loading="lazy"><br>
+记好上面的两个码（⚠️务必保管好）<br>
+二、创建新仓库<br>
+名字随意，但要记住。<br>
+打开你的仓库，打开Settings-Features-lssues。如图所示，为它打钩✔️：<br>
+<img src="https://ans4q6.coding-pages.com/post-images/1586001055920.png" alt="" loading="lazy"><br>
+三、设置Gridea<br>
+打开Gridea-远程-评论配置，如图配置，填写先前的两个码，其余如图：<br>
+<img src="https://ans4q6.coding-pages.com/post-images/1586001246878.png" alt="" loading="lazy"><br>
+保存，你的评论功能开启了！<br>
+B.Valine(改代码，较开放)<br>
+<a href="https://kveln.cn/post/qE678A4ce/">点我了解</a></p>
+<p>③CNAME（使用你自己的域名访问博客）<br>
+一、设置<br>
+打开Gridea-远程-基础配置，将CNAME改为你将要使用的域名。<br>
+二、检查<br>
+打开Github，找到你的Github Pages仓库(xxx.github.io),打开Settings。<br>
+找到如图选项，按如图检查（强不强制HTTPS随意你）<br>
+<img src="https://ans4q6.coding-pages.com/post-images/1586001728874.png" alt="" loading="lazy"><br>
+三、DNS<br>
+在你的域名DNS服务商，添加一条你的域名CNAME记录，记录值请填&quot;你的名字.github.io&quot;。<br>
+至此，你可以通过该域名访问你的博客了！😄</p>
 ]]></content>
     </entry>
 </feed>
