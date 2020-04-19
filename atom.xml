@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ans4q6.coding-pages.com</id>
     <title>Bgsn2014&apos;s Blog</title>
-    <updated>2020-04-19T10:38:54.035Z</updated>
+    <updated>2020-04-19T14:09:06.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ans4q6.coding-pages.com"/>
     <link rel="self" href="https://ans4q6.coding-pages.com/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://ans4q6.coding-pages.com/images/avatar.png</logo>
     <icon>https://ans4q6.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Bgsn2014&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[【Happy】访问量大大提高了]]></title>
+        <id>https://ans4q6.coding-pages.com/post/hUPzCiaKb/</id>
+        <link href="https://ans4q6.coding-pages.com/post/hUPzCiaKb/">
+        </link>
+        <updated>2020-04-19T14:05:52.000Z</updated>
+        <content type="html"><![CDATA[<p>好久没有看网站统计，今天一看，这一两周以来PV接近800了😀，哈哈哈，什么时候能被搜索引擎收录😭<br>
+<img src="https://ans4q6.coding-pages.com/post-images/1587305252093.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【注意】换域名了]]></title>
         <id>https://ans4q6.coding-pages.com/post/vcrOT94cG/</id>
@@ -107,20 +117,6 @@ Test</p>
         <updated>2020-04-07T13:00:00.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://ans4q6.coding-pages.com/post-images/1586267942526.jpg" alt="" loading="lazy">Github Pages太慢啦！(其实套了CF也挺快)😧所以博主决定将该博客搬至<a href="https://coding.net">Coding.net</a> Gituhb作为镜像站继续运行，4月8日14时后原Github Pages 上的博客地址为<a href="https://bgsn2014.github.io">bgsn2014.github.io</a>或<a href="https://b.b233.ga">b.b233.ga</a>。届时<a href="https://b.bgsn2014.top">b.bgsn2014.top</a>或<a href="https://b233.ga">b233.ga</a>将运行于Coding.net。欢迎大家多多光临。<s>(很快又要搬了😅)</s></p>
 <p>默默问一句，有谁要加友链吗？</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哀悼🕯️]]></title>
-        <id>https://ans4q6.coding-pages.com/post/TTPXJ7GzU/</id>
-        <link href="https://ans4q6.coding-pages.com/post/TTPXJ7GzU/">
-        </link>
-        <updated>2020-04-04T01:59:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>为那些疫情期间默默付出的英雄点赞，为那些烈士表示哀悼，为在疫情中去世的同胞默哀。🕯️🙍‍♂</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>为那些疫情期间默默付出的英雄点赞，为那些烈士表示哀悼，为在疫情中去世的同胞默哀。🕯️🙍‍♂</p>
-<!-- more -->
-<p><img src="https://ans4q6.coding-pages.com/post-images/1585984457574.jpeg" alt="" loading="lazy"><br>
-武汉加油，中国加油，世界加油！🇨🇳</p>
 ]]></content>
     </entry>
 </feed>
