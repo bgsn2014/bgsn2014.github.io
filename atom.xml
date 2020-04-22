@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ans4q6.coding-pages.com</id>
     <title>Bgsn2014&apos;s Blog</title>
-    <updated>2020-04-22T06:14:18.025Z</updated>
+    <updated>2020-04-22T11:19:13.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ans4q6.coding-pages.com"/>
     <link rel="self" href="https://ans4q6.coding-pages.com/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://ans4q6.coding-pages.com/images/avatar.png</logo>
     <icon>https://ans4q6.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Bgsn2014&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[博客爆了！！！]]></title>
+        <id>https://ans4q6.coding-pages.com/post/v7ZQIp0hU/</id>
+        <link href="https://ans4q6.coding-pages.com/post/v7ZQIp0hU/">
+        </link>
+        <updated>2020-04-22T11:16:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>今天换主题时博客爆了，这几天考试，预计将于周日修复👐</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>今天换主题时博客爆了，这几天考试，预计将于周日修复👐</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[考试了]]></title>
         <id>https://ans4q6.coding-pages.com/post/3nY-MVKvO/</id>
@@ -120,15 +132,6 @@ Test</p>
         </link>
         <updated>2020-04-08T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>233待更</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【水】懒：使用Gridea在Coding.net 搭建博客]]></title>
-        <id>https://ans4q6.coding-pages.com/post/cdbk/</id>
-        <link href="https://ans4q6.coding-pages.com/post/cdbk/">
-        </link>
-        <updated>2020-04-08T04:30:30.000Z</updated>
-        <content type="html"><![CDATA[<p>稍后更新</p>
 ]]></content>
     </entry>
 </feed>
