@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ans4q6.coding-pages.com</id>
     <title>Bgsn2014&apos;s Blog</title>
-    <updated>2020-04-22T04:03:49.687Z</updated>
+    <updated>2020-04-22T06:14:18.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ans4q6.coding-pages.com"/>
     <link rel="self" href="https://ans4q6.coding-pages.com/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://ans4q6.coding-pages.com/images/avatar.png</logo>
     <icon>https://ans4q6.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Bgsn2014&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[考试了]]></title>
+        <id>https://ans4q6.coding-pages.com/post/3nY-MVKvO/</id>
+        <link href="https://ans4q6.coding-pages.com/post/3nY-MVKvO/">
+        </link>
+        <updated>2020-04-22T06:13:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>😭网课上了那么久，终于考试了，加油吧</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>😭网课上了那么久，终于考试了，加油吧</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Happy】访问量大大提高了]]></title>
         <id>https://ans4q6.coding-pages.com/post/hUPzCiaKb/</id>
@@ -117,20 +129,6 @@ Test</p>
         </link>
         <updated>2020-04-08T04:30:30.000Z</updated>
         <content type="html"><![CDATA[<p>稍后更新</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博客搬家了]]></title>
-        <id>https://ans4q6.coding-pages.com/post/InJQ7ULhh/</id>
-        <link href="https://ans4q6.coding-pages.com/post/InJQ7ULhh/">
-        </link>
-        <updated>2020-04-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Github Pages太慢啦！(其实套了CF也挺快)😧所以博主决定将该博客搬至<a href="https://coding.net">Coding.net</a> Github作为镜像站继续运行，4月8日14时后原Github Pages 上的博客地址为<a href="https://bgsn2014.github.io">bgsn2014.github.io</a>或<a href="https://b.b233.ga">b.b233.ga</a>。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>Github Pages太慢啦！(其实套了CF也挺快)😧所以博主决定将该博客搬至<a href="https://coding.net">Coding.net</a> Github作为镜像站继续运行，4月8日14时后原Github Pages 上的博客地址为<a href="https://bgsn2014.github.io">bgsn2014.github.io</a>或<a href="https://b.b233.ga">b.b233.ga</a>。</p>
-<!-- more -->
-<p>届时<a href="https://b.bgsn2014.top">b.bgsn2014.top</a>或<a href="https://b233.ga">b233.ga</a>将运行于Coding.net。欢迎大家多多光临。<s>(很快又要搬了😅)</s></p>
-<p>默默问一句，有谁要加友链吗？</p>
 ]]></content>
     </entry>
 </feed>
