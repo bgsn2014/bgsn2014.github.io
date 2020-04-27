@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bgsn2014.github.io</id>
     <title>Bgsn2014&apos;s Blog</title>
-    <updated>2020-04-27T07:26:55.022Z</updated>
+    <updated>2020-04-27T08:04:33.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bgsn2014.github.io"/>
     <link rel="self" href="https://bgsn2014.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://bgsn2014.github.io/images/avatar.png</logo>
     <icon>https://bgsn2014.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Bgsn2014&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[弃Coding了]]></title>
+        <id>https://bgsn2014.github.io/post/4cYEpkD8W/</id>
+        <link href="https://bgsn2014.github.io/post/4cYEpkD8W/">
+        </link>
+        <updated>2020-04-27T07:35:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>。。。。。。我又换回Github Pages惹，Coding的部署有点坑啊😕一言难尽......</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>。。。。。。我又换回Github Pages惹，Coding的部署有点坑啊😕一言难尽......</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[博客爆了！！！]]></title>
         <id>https://bgsn2014.github.io/post/v7ZQIp0hU/</id>
@@ -123,15 +135,6 @@ Test</p>
         </link>
         <updated>2020-04-08T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Hexo是快速、简洁且高效的博客框架。稍后更新</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在KaiOS上构建应用]]></title>
-        <id>https://bgsn2014.github.io/post/GirHy-zxu/</id>
-        <link href="https://bgsn2014.github.io/post/GirHy-zxu/">
-        </link>
-        <updated>2020-04-08T05:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>233待更</p>
 ]]></content>
     </entry>
 </feed>
