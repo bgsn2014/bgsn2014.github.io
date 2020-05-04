@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bgsn2014.github.io</id>
     <title>Bgsn2014&apos;s Blog</title>
-    <updated>2020-05-04T12:42:47.163Z</updated>
+    <updated>2020-05-04T15:05:31.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bgsn2014.github.io"/>
     <link rel="self" href="https://bgsn2014.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://bgsn2014.github.io/images/avatar.png</logo>
     <icon>https://bgsn2014.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Bgsn2014&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[博客修改日志]]></title>
+        <id>https://bgsn2014.github.io/post/7JPdrvsY4/</id>
+        <link href="https://bgsn2014.github.io/post/7JPdrvsY4/">
+        </link>
+        <updated>2020-05-04T14:58:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>2020-05-04 今天正式开始编写日志</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2020-05-04 今天正式开始编写日志</p>
+<!-- more -->
+<p>2020-05-04 进行第三次网站备案（使用公司名义，前两次被驳回😭）<br>
+2020-05-04 新增新浪微博分享，位于网页左下角（使用公司名义）<br>
+2020-05-04 重置valine评论（使用个人名义）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弃Coding了]]></title>
         <id>https://bgsn2014.github.io/post/4cYEpkD8W/</id>
@@ -115,30 +130,33 @@ Test</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[在KaiOS上构建知名应用]]></title>
-        <id>https://bgsn2014.github.io/post/ZjkoOew3e/</id>
-        <link href="https://bgsn2014.github.io/post/ZjkoOew3e/">
+        <title type="html"><![CDATA[博客搬家了]]></title>
+        <id>https://bgsn2014.github.io/post/InJQ7ULhh/</id>
+        <link href="https://bgsn2014.github.io/post/InJQ7ULhh/">
         </link>
-        <updated>2020-04-08T10:20:20.000Z</updated>
-        <content type="html"><![CDATA[<p>233</p>
+        <updated>2020-04-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>本文无效！！！！！！</strong></p>
+<p>Github Pages太慢啦！(其实套了CF也挺快)😧所以博主决定将该博客搬至<a href="https://coding.net">Coding.net</a> Github作为镜像站继续运行，4月8日14时后原Github Pages 上的博客地址为<a href="https://bgsn2014.github.io">bgsn2014.github.io</a>或<a href="https://b.b233.ga">b.b233.ga</a>。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>本文无效！！！！！！</strong></p>
+<p>Github Pages太慢啦！(其实套了CF也挺快)😧所以博主决定将该博客搬至<a href="https://coding.net">Coding.net</a> Github作为镜像站继续运行，4月8日14时后原Github Pages 上的博客地址为<a href="https://bgsn2014.github.io">bgsn2014.github.io</a>或<a href="https://b.b233.ga">b.b233.ga</a>。</p>
+<!-- more -->
+<p>届时<a href="https://b.bgsn2014.top">b.bgsn2014.top</a>或<a href="https://b233.ga">b233.ga</a>将运行于Coding.net。欢迎大家多多光临。<s>(很快又要搬了😅)</s></p>
+<p>默默问一句，有谁要加友链吗？</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KaiOS创建网页快捷方式]]></title>
-        <id>https://bgsn2014.github.io/post/9M1v6sXE3/</id>
-        <link href="https://bgsn2014.github.io/post/9M1v6sXE3/">
+        <title type="html"><![CDATA[哀悼🕯️]]></title>
+        <id>https://bgsn2014.github.io/post/TTPXJ7GzU/</id>
+        <link href="https://bgsn2014.github.io/post/TTPXJ7GzU/">
         </link>
-        <updated>2020-04-08T08:11:56.000Z</updated>
-        <content type="html"><![CDATA[<p>233</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【经验】入门：使用Hexo搭建博客]]></title>
-        <id>https://bgsn2014.github.io/post/hexobgsn/</id>
-        <link href="https://bgsn2014.github.io/post/hexobgsn/">
-        </link>
-        <updated>2020-04-08T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Hexo是快速、简洁且高效的博客框架。稍后更新</p>
+        <updated>2020-04-04T01:59:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>为那些疫情期间默默付出的英雄点赞，为那些烈士表示哀悼，为在疫情中去世的同胞默哀。🕯️🙍‍♂</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>为那些疫情期间默默付出的英雄点赞，为那些烈士表示哀悼，为在疫情中去世的同胞默哀。🕯️🙍‍♂</p>
+<!-- more -->
+<p><img src="https://bgsn2014.github.io/post-images/1585984457574.jpeg" alt="" loading="lazy"><br>
+武汉加油，中国加油，世界加油！🇨🇳</p>
 ]]></content>
     </entry>
 </feed>
