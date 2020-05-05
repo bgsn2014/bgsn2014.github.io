@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bgsn2014.github.io</id>
     <title>Bgsn2014&apos;s Blog</title>
-    <updated>2020-05-04T15:05:31.590Z</updated>
+    <updated>2020-05-05T07:51:08.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bgsn2014.github.io"/>
     <link rel="self" href="https://bgsn2014.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://bgsn2014.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Bgsn2014&apos;s Blog</rights>
     <entry>
-        <title type="html"><![CDATA[博客修改日志]]></title>
+        <title type="html"><![CDATA[【网站】博客修改日志]]></title>
         <id>https://bgsn2014.github.io/post/7JPdrvsY4/</id>
         <link href="https://bgsn2014.github.io/post/7JPdrvsY4/">
         </link>
@@ -20,13 +20,14 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>2020-05-04 今天正式开始编写日志</p>
 <!-- more -->
-<p>2020-05-04 进行第三次网站备案（使用公司名义，前两次被驳回😭）<br>
+<p>2020-05-04 进行第三次网站备案（使用公司名义，前两次被驳回😭）P.S.又驳回了，他们的理由真多🙃<br>
 2020-05-04 新增新浪微博分享，位于网页左下角（使用公司名义）<br>
-2020-05-04 重置valine评论（使用个人名义）</p>
+2020-05-04 重置valine评论（使用个人名义）<br>
+2020-05-05 弃用valine评论，全面使用畅言评论（使用nnzza.top的备案号）</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[弃Coding了]]></title>
+        <title type="html"><![CDATA[【碎碎念】弃Coding了]]></title>
         <id>https://bgsn2014.github.io/post/4cYEpkD8W/</id>
         <link href="https://bgsn2014.github.io/post/4cYEpkD8W/">
         </link>
@@ -42,7 +43,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[博客爆了！！！]]></title>
+        <title type="html"><![CDATA[【通知】博客爆了！！！]]></title>
         <id>https://bgsn2014.github.io/post/v7ZQIp0hU/</id>
         <link href="https://bgsn2014.github.io/post/v7ZQIp0hU/">
         </link>
@@ -51,10 +52,11 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>今天换主题时博客爆了，这几天考试，预计将于周日修复👐</p>
 <!-- more -->
+<p>2020-05-01换回Github了，博客恢复</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[考试了]]></title>
+        <title type="html"><![CDATA[【水】考试了]]></title>
         <id>https://bgsn2014.github.io/post/3nY-MVKvO/</id>
         <link href="https://bgsn2014.github.io/post/3nY-MVKvO/">
         </link>
