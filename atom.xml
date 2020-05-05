@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bgsn2014.github.io</id>
     <title>Bgsn2014&apos;s Blog</title>
-    <updated>2020-05-05T13:27:01.941Z</updated>
+    <updated>2020-05-05T13:32:55.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bgsn2014.github.io"/>
     <link rel="self" href="https://bgsn2014.github.io/atom.xml"/>
@@ -27,7 +27,8 @@
 2020-05-05 微博分享以及畅言出问题了，11天后再修复吧（要去学校待10天了😭）<br>
 2020-05-05 微博分享恢复并更改位置，微博接入仍在审核中，畅言评论无显示😵晕了<br>
 2020-05-05 添加bShare分享通道<br>
-2020-05-05 畅言云评组件移至post-footer，畅言云评修复，关闭valine,Gitalk</p>
+2020-05-05 畅言云评组件移至post-footer，畅言云评修复，关闭valine,Gitalk<br>
+2020-05-05 bShare,畅言云评又失效了，仅低分辨率下可以使用（真·11天后再修复吧）</p>
 ]]></content>
     </entry>
     <entry>
