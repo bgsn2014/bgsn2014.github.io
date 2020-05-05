@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bgsn2014.github.io</id>
     <title>Bgsn2014&apos;s Blog</title>
-    <updated>2020-05-05T12:29:10.729Z</updated>
+    <updated>2020-05-05T12:53:56.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bgsn2014.github.io"/>
     <link rel="self" href="https://bgsn2014.github.io/atom.xml"/>
@@ -24,7 +24,8 @@
 2020-05-04 新增新浪微博分享，位于网页左下角（使用公司名义）<br>
 2020-05-04 重置valine评论（使用个人名义）<br>
 2020-05-05 弃用valine评论，全面使用畅言评论（使用nnzza.top的备案号）<br>
-2020-05-05 微博分享以及畅言出问题了，11天后再修复吧（要去学校待10天了😭）</p>
+2020-05-05 微博分享以及畅言出问题了，11天后再修复吧（要去学校待10天了😭）<br>
+2020-05-05 微博分享恢复并更改位置，畅言评论仅localhost有效</p>
 ]]></content>
     </entry>
     <entry>
